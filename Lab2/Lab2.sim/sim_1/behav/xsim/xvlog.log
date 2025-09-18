@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Kai/Downloads/decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Kai/Downloads/tb_decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_decoder
